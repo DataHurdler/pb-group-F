@@ -17,10 +17,20 @@ day's link to the briefings these learners give for a living.
 | --- | --- | --- | --- |
 | 0–5 | Brief | Instructor | The [project summary](../activities/5-implementation-checklist.md). First instruction: **read it before you paste anything** |
 | 5–10 | **Strip** | Teams | Mark everything in the summary that shouldn't go into ChatGPT, and say why. Two items should get caught. Points for each, with a reason |
-| 10–25 | **Build** | Teams | A checklist built in steps: phases first, then tasks with owner, due date, and dependency, then the checklist. [CHECK] for anything missing |
-| 25–38 | **Red Team** | Teams | ChatGPT plays a sceptical division chief and lists the five most likely reasons the plan fails. Teams **accept or reject each critique with a reason**, then update the checklist |
-| 38–52 | **Elevator Briefing** | One volunteer per team | ChatGPT drafts 60-second BLUF talking points; the volunteer briefs **you, playing the Deputy Director**, standing up. You ask one hard question. The room applauds; the clearest briefing gets points |
+| 10–25 | **Build** | Teams | Practice prompt **P5.1**: phases first, then tasks with owner, due date, and dependency, then the checklist. [CHECK] for anything missing. Then the traceability test **T5.1**: fix every UNSUPPORTED owner or date |
+| 25–38 | **Red Team** | Teams | Test prompt **T5.2**: ChatGPT plays a sceptical division chief and lists the five most likely reasons the plan fails. Teams **accept or reject each critique with a reason**, then update the checklist |
+| 38–52 | **Elevator Briefing** | One volunteer per team | Practice prompt **P5.2** drafts 60-second BLUF talking points; the volunteer edits them and briefs **you, playing the Deputy Director**, standing up. You ask one hard question. The clearest briefing gets points |
 | 52–60 | Debrief | Room | *What did you strip, and why? Which red-team critique was wrong? Did the talking points prepare your briefer for the question?* |
+
+All prompts for this block: [../prompts/block-5.md](../prompts/block-5.md).
+
+## Strip: there's no grey area today
+
+Learners are using the **public** version of ChatGPT, which isn't approved for
+any non-public agency information. Both flagged items (the vendor quote and the
+unannounced merger) must come out before anything is pasted. Make the general
+rule explicit: *if it isn't needed for the task, it doesn't go in; and in the
+public version, only public or invented information goes in at all.*
 
 ## Why the Red Team step matters
 

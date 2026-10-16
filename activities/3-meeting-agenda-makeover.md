@@ -29,11 +29,13 @@ different scenarios so the debrief has variety.
 | Min | Step |
 | --- | --- |
 | 0–2 | Rules: the sheet and keyboard move together. Each person adds one part, runs the full prompt in a **new chat**, and writes one line on what changed |
-| 2–20 | Relay. With three people, someone takes two parts |
-| 20–25 | Last step: paste the final prompt, run it, check the agenda against the scenario card. Anything invented? |
+| 2–17 | Relay. With three people, someone takes two parts |
+| 17–25 | **Test the final prompt:** T3.1 (swap scenario cards with the next team, paste their facts into your prompt, change nothing else) and T3.2 (the near-empty card). Score each against the pass criteria on the relay sheet |
 
 **Scoring:** 3 points for a sheet with all five parts and a "what changed" note
-for each; +1 if the final agenda has no invented facts.
+for each; +1 for passing T3.1; +2 for passing T3.2 (the one most prompts fail).
+
+Prompts and pass criteria: [../prompts/block-3.md](../prompts/block-3.md).
 
 **Watch for:** context that's summarised instead of pasted; guardrails left
 blank; agendas whose times don't add up (a good catch to praise).
@@ -56,6 +58,19 @@ Start with this prompt: ***"Make an agenda for my meeting."***
 
 **Final check:** compare the last agenda with your scenario card. Is anything
 there that the card doesn't support?
+
+### Test your final prompt
+
+Pass criteria for both tests: times add up to the meeting length · every item has
+an owner or [CHECK] · an action-item table · nothing invented.
+
+| Test | What you do | Pass? | What failed |
+| --- | --- | --- | --- |
+| **T3.1 Swap the card** | Paste the next team's scenario facts into your prompt. Change nothing else. New chat | | |
+| **T3.2 Empty card** | Replace the facts with: *"30-minute meeting on Thursday about the dashboard."* New chat | | |
+
+On T3.2, a good prompt gives you [CHECK]s or questions. A weak one invents a
+whole meeting.
 
 ### Scenario cards
 

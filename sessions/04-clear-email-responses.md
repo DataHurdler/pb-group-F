@@ -18,14 +18,18 @@ volunteer reads a ridiculous email aloud.
 | Min | Segment | Format | What happens |
 | --- | --- | --- | --- |
 | 0–3 | **Dramatic reading** | Volunteer | Hand the [Email from Chaos](../activities/4a-email-from-chaos.md) to a volunteer and ask for a full performance. The room counts on their fingers how many questions it actually asks |
-| 3–25 | **Email from Chaos** | Pairs | Turn it into a clear reply in ChatGPT. At least three rounds, each a specific follow-up, logged. Points for every ask answered, every unknown flagged, and no invented commitments |
+| 3–25 | **Email from Chaos** | Pairs | Start from the weak prompt **P4.1** and reach a clear reply in at least three rounds of specific follow-ups, logged. Then two tests: the coverage check **T4.1**, and the final prompt on a different email, **T4.2**. Points for every ask answered, every unknown flagged, no invented commitments, and passing T4.2 |
 | 25–35 | Five refinement moves | Talk | Below. Each one illustrated by a fix a pair just made |
 | 35–55 | **Reverse-Engineer the Prompt** | Teams | [Activity 4b](../activities/4b-reverse-engineer-the-prompt.md). Three ChatGPT outputs; teams work out the prompt behind each, run their guess, and score the match |
 | 55–60 | Bridge | Instructor | *"Last target task after the break: a whole project checklist. And this time you'll check what you paste."* |
 
+All prompts for this block: [../prompts/block-4.md](../prompts/block-4.md).
+
 ## Five refinement moves (10 min)
 
-Ask the room to name a fix they used before you name each move.
+Ask the room to name a fix they used before you name each move. Copy-paste
+versions of all five are practice prompt **P4.3**; show the model prompt **P4.2**
+at the end.
 
 1. **Point at the problem.** "You left out the question about the template.
    Answer it in one sentence." Better than regenerating and hoping.

@@ -26,19 +26,22 @@ the room needs a lift.
 | 1 | **Human or Machine?** Spot the ChatGPT agenda | Vague prompts get generic output |
 | 1 | **Same prompt, different answers** | Outputs vary; gaps get filled with inventions |
 | 2 | **Hallucination Hunt**, with points and penalties | Check against the source; don't over-accuse either |
+| 2 | **Machine vs. Hunters**: ChatGPT checks the same paper and joins the scoreboard | A check prompt is a second pair of eyes, not a substitute |
 | 2 | **Two Truths and an AI**, lightning rounds | The fabrication is the most plausible-sounding line |
 | 2 | **"Are you sure?"** demo, with the room predicting | Leading questions get agreement; "are you sure?" isn't checking |
 | 3 | **Worst Prompt Contest** | What a good prompt needs, learned by its absence |
-| 3 | **Prompt Makeover Relay** | What each of the five parts does |
+| 3 | **Prompt Makeover Relay**, ending with the swap-card and empty-card tests | What each of the five parts does, and whether the prompt survives a new input |
 | 4 | **Email from Chaos**, read aloud with feeling | Iterating with specific follow-ups |
 | 4 | **Reverse-Engineer the Prompt** | Which prompt features cause which output features |
 | 5 | **Red Team** | ChatGPT's critiques need your judgement too |
 | 5 | **Elevator Briefing** to the "Deputy Director" | Talking points are a draft; you're the one briefing |
-| 6 | **Gallery walk** with sticky dots | Learning from each other's prompts |
+| 6 | **Partner test**: your partner tries to break your prompt with a messy input | Testing finds what you'd never notice yourself |
+| 6 | **Gallery walk** with sticky dots | Learning from each other's prompts and test logs |
 
 ## The scoreboard
 
-A flip chart on the wall with a column per team, updated after every game. Keep
+A flip chart on the wall with a column per team, **plus a column for ChatGPT**
+after Machine vs. Hunters, updated after every game. Keep
 it light: the scores matter less than the debrief. Announce the winner at 16:23.
 
 Prizes should be nominal: stickers, a printed "Prompt Champion" certificate, or

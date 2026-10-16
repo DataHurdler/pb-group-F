@@ -21,6 +21,11 @@ early. Print the learner section for everyone.
 | Deadline flagged as unconfirmed, not stated as fact | +2 |
 | No invented commitments, names, emails, or dates | +2 |
 | Log shows three specific follow-ups | +1 |
+| Final prompt passes test T4.2 (a different email) | +2 |
+
+**Timing within the 22 minutes:** rounds until about minute 15, then the coverage
+check T4.1 and the different-email test T4.2 from the
+[Block 4 prompts](../prompts/block-4.md).
 
 **Answer key: the five asks hidden in the email**
 
@@ -84,7 +89,14 @@ know, and commits to nothing you can't deliver. Do at least three rounds, each a
 | 2 | | | |
 | 3 | | | |
 
-**Before you finish:** count the questions in the original email. Does your reply
-answer every one?
+### Test it
+
+1. **Coverage check (T4.1):** ask ChatGPT to list every question in the original
+   email and quote the sentence in your reply that answers it. Then count the
+   questions yourself. Are there five?
+2. **A different email (T4.2):** paste the short email and facts from the prompt
+   bank into **your final prompt**, changing nothing else, and run it in a new
+   chat. Does it refuse to commit, mention needing approval, and point out the
+   missing attachment?
 
 **Time:** 20 minutes

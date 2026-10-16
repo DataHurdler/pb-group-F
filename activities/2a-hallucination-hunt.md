@@ -49,6 +49,11 @@ Calculators allowed (phones are fine).
 The decoys are where analysts shine: a team that checks the percent-versus-
 points arithmetic and leaves it alone deserves a shout-out.
 
+**Then: Machine vs. Hunters (5 min).** Each team runs test prompt T2.1 from the
+[Block 2 prompts](../prompts/block-2.md), asking ChatGPT to find the errors
+itself, and scores its answer with the same rules. Put ChatGPT on the scoreboard
+as an extra team.
+
 ---
 
 ## For learners
@@ -99,3 +104,9 @@ All data is fabricated.
 | | | | |
 
 **Time:** 16 minutes
+
+### Then: Machine vs. Hunters
+
+Run test prompt **T2.1** from the prompt bank: ask ChatGPT to find the errors in
+the same paper. Score its answer by the same rules. Did it beat your team? What
+did it miss?

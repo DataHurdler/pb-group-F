@@ -38,6 +38,24 @@ One page. Keep it next to your keyboard.
 keep the history. **Start a new chat** when it keeps repeating a mistake or you
 switch tasks.
 
+## Test your prompt before you rely on it
+
+1. **Write pass criteria first**: three to five things someone else could check.
+2. Run it on a **normal** input.
+3. Run it on a **messy** input.
+4. Run it on an input with **facts missing**. Good: [CHECK]. Bad: invention.
+5. Run it **twice in new chats**. Is the variation acceptable?
+6. When it fails, **change one thing** and re-run the same tests.
+
+**Check prompts** help, but they're a second pair of eyes, not the last one:
+
+- "List every question in the original and quote the sentence that answers it."
+- "For every name, number, and date, quote the source line. Mark any without one
+  UNSUPPORTED."
+- "List anything in your answer that isn't from the facts I gave you."
+
+Every prompt from the course is in the prompt bank.
+
 ## Before you use the output
 
 - [ ] Every number, name, and date matches the source
@@ -49,4 +67,5 @@ switch tasks.
 
 ## Before you paste
 
-If it isn't needed for the task, it doesn't go in. See the safe-use card.
+In the public version of ChatGPT: **only invented or public information.** And
+if it isn't needed for the task, it doesn't go in. See the safe-use card.

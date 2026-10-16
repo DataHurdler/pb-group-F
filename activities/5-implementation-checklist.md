@@ -19,9 +19,8 @@ what these learners actually do with a plan.
 | The **possible merger** of Program Evaluation into Economic Research, marked pre-decisional | Pre-decisional and unannounced | +2 with a reason |
 
 Neither is needed for the checklist anyway, which is a useful point in itself:
-*if it isn't needed for the task, it doesn't go in.* Whether either *could* go
-into the learners' version of ChatGPT depends on what the agency has approved it
-for. Say so; don't guess.
+*if it isn't needed for the task, it doesn't go in.* And because learners are on
+the **public** version of ChatGPT, neither could go in even if it were needed.
 
 **What a strong checklist has:** phases in a sensible order (design, build,
 test, train, launch, retire the old inbox); an owner and date on every task, or
@@ -76,6 +75,12 @@ Use the five parts. Break the task into steps in your prompt:
 3. Produce the checklist as a table: ☐ · Task · Owner · Due · Depends on.
    Write [CHECK] for any owner or date the summary doesn't give.
 
+A ready-made version is practice prompt **P5.1** in the prompt bank.
+
+**Then test it (T5.1):** ask ChatGPT to quote the line of the summary that
+supports every owner and date, and to mark any it can't support as UNSUPPORTED.
+Fix each one, then spot-check three rows yourself.
+
 ### Step 3: Red Team (13 min)
 
 Paste your checklist into ChatGPT with this prompt:
@@ -98,6 +103,6 @@ For each critique, decide: **accept** (and change the checklist) or **reject**
 ### Step 4: Elevator Briefing (60 seconds per team)
 
 Ask ChatGPT for **60-second talking points** for briefing the Deputy Director on
-this plan, bottom line first. Edit them. Your briefer then stands up and briefs
+this plan, bottom line first (practice prompt **P5.2**). Edit them. Your briefer then stands up and briefs
 the instructor, who is playing the Deputy Director and will ask one hard
 question.

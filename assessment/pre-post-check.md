@@ -25,7 +25,7 @@ a published report as its source. What's the best next step?** (LO1, LO4)
 - C. Find the report yourself and check the statistic
 - D. I don't know
 
-**3. Your agency's version of ChatGPT is approved for public information only.
+**3. You're using the public version of ChatGPT that anyone can sign up for.
 Which of these can you paste in?** (LO4)
 
 - A. A draft memo describing an unannounced reorganisation
@@ -33,13 +33,13 @@ Which of these can you paste in?** (LO4)
 - C. A vendor's price quote for an upcoming contract
 - D. I don't know
 
-**4. ChatGPT's reply to a confusing email is accurate but skips one of the
-sender's questions. What's the best next move?** (LO3)
+**4. Your agenda prompt worked well on last week's meeting. Before you rely on
+it every week, what's the best way to test it?** (LO3)
 
-- A. Regenerate the response and hope it's included this time
-- B. Follow up: "You didn't answer the question about the template. Add one
-  sentence answering it"
-- C. Start over in a new chat with the same prompt
+- A. Ask ChatGPT whether the prompt is good
+- B. Run it again on last week's meeting and check it gives the same agenda
+- C. Run it on a messy set of notes and on one with key facts missing, and check
+  the results against criteria you wrote beforehand
 - D. I don't know
 
 **5. Which prompt is most likely to give you a usable meeting agenda?** (LO2)
@@ -61,7 +61,7 @@ sender's questions. What's the best next move?** (LO3)
 | 1 | B | C: thinks ChatGPT learns permanently from each user. Block 1 talk |
 | 2 | C | A or B: trusts fluency or self-checking. The point of Block 2 |
 | 3 | B | A or C: doesn't yet see pre-decisional or procurement information as sensitive. Block 5 strip step |
-| 4 | B | A or C: hasn't learned to point at the problem. Block 4 |
+| 4 | C | A: trusts the tool to judge itself (Machine vs. Hunters). B: tests only the case it already passed. Blocks 3–6 test steps |
 | 5 | C | B: believes role-prompt folklore over context. Block 3 |
 
 ## Using the results

@@ -17,10 +17,10 @@ the block with an accurate one-sentence model of how ChatGPT works.
 | 0–4 | Welcome | Instructor | Who you are, in two sentences. Breaks at 9:30, 10:45, 14:00, 15:15; lunch at 12:00; finish 16:30. Teams are the tables; the scoreboard is on the wall |
 | 4–11 | **Human or Machine?** | Teams | [Activity 1a](../activities/1a-human-or-machine.md). Two meeting agendas; one was written by ChatGPT. Teams vote with A/B cards, then argue. First points on the board |
 | 11–18 | Introductions | Tables | Name, office, and one task you'd hand to a capable assistant tomorrow, on a sticky note for the goals wall. Keep it free of sensitive detail; it becomes your afternoon project |
-| 18–26 | **Safe-use rules** | Instructor | [Safe-use card](../materials/handouts/safe-use-card.md). Then the room rule: *everything you paste today is invented or public* |
+| 18–26 | **Safe-use rules** | Instructor | [Safe-use card](../materials/handouts/safe-use-card.md). Then the room rule: *this is the public ChatGPT, so everything you paste today is invented or public* |
 | 26–31 | Pre-check | Individual | [Pre/post check](../assessment/pre-post-check.md). Anonymous; "I don't know" is a good answer at 8:56 |
-| 31–35 | Setup check | Individual | Everyone opens ChatGPT in the agency-approved version, starts a new chat, and sends *"Reply with the word ready."* Show where new chat and the settings are. [TODO: memory and chat-history settings, per agency guidance] |
-| 35–47 | **Same prompt, different answers** | Individual, then tables | [Activity 1b](../activities/1b-same-prompt-different-answers.md). Everyone sends an identical vague prompt; tables compare |
+| 31–35 | Setup check | Individual | Everyone opens the [prompt bank](../prompts/README.md) in one tab and the public ChatGPT in another, signs in with the account they created before the day, checks the model is GPT-6, starts a new chat, and sends prompt **S1**. Then, together, the data-control settings: [TODO: per agency guidance, e.g. turn off use of chats for model training, or use temporary chats] |
+| 35–47 | **Same prompt, different answers** | Individual, then tables | [Activity 1b](../activities/1b-same-prompt-different-answers.md). Everyone sends practice prompt **P1.1**; tables compare. Fast finishers run test **T1.2** (the same prompt in a second new chat) |
 | 47–57 | How ChatGPT works | Talk | Talking points below. Use their outputs from 1b as the examples, not slides |
 | 57–60 | Bridge | Instructor | *"If it fills gaps with plausible guesses, what happens when you ask it about data?"* Break |
 
@@ -34,8 +34,10 @@ want the real mechanism, not a metaphor, so give it plainly.
    retrieve an answer from a database.
 2. **It knows two things:** what it learned in training, which stops at a cut-off
    date, and what's in this conversation. It doesn't know your office, your
-   meetings, or last week's guidance unless you tell it. [TODO: say whether the
-   learners' version can search the web, and what that does and doesn't change.]
+   meetings, or last week's guidance unless you tell it. **Run behaviour test
+   T1.1 live** ("What's on the agenda for my team's meeting next week?") and let
+   the room see what it does with no information. [TODO: say whether web search
+   is on in the public version, and what that does and doesn't change.]
 3. **It varies on purpose.** That's why the table's agendas differed. Good for
    drafting, bad for facts.
 4. **It fills gaps silently.** The meeting topics, times, and attendees it gave
@@ -48,6 +50,7 @@ missing facts get made up.**
 
 ## Materials
 
+- [Block 1 prompts](../prompts/block-1.md): S1, P1.1, T1.1–T1.3
 - A/B voting cards (one set per team); scoreboard on the wall
 - Activity 1a handout with the pre-made ChatGPT agenda (generated in prep)
 - Safe-use card, agenda handout, prompt checklist on every table

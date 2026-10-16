@@ -5,30 +5,41 @@ teaches general safe practice and points learners to their agency's rules; it
 doesn't quote policy as current. Confirm everything below with the host agency
 at least four weeks out, and update the safe-use card to match.
 
-## The ChatGPT version
+## The tool: public ChatGPT, running GPT-6
 
-"ChatGPT" covers several products with different data protections. Find out
-which one learners will use.
+The course uses the **public** version of ChatGPT, the one anyone can sign up
+for, **not** a government or enterprise version. What that means:
 
-- **An agency-provided account** (ChatGPT Enterprise, ChatGPT Gov, or similar).
-  OpenAI has offered government versions, including through a GSA OneGov
-  agreement in 2025. **Confirm what the agency actually has and what it's
-  approved for.** This is the expected case.
-- **Personal accounts** (free or paid). Many agencies don't allow these for work.
-  If this is the plan, confirm it's permitted, and keep the room rule strict:
-  invented or public text only.
+- **Data rule: invented or public information only.** The public version isn't
+  approved for non-public agency information. Every activity and prompt in this
+  repo already complies; the risk is learners pasting real work, so the room rule
+  is stated at 8:48 and repeated at every activity brief.
+- **Conversations may be used to train models** unless the user changes the
+  setting. Walk through the data controls in the Block 1 setup check. [TODO:
+  confirm the current setting name and location, and what the agency wants
+  learners to choose.]
+- **Usage limits.** Free (and some paid) accounts limit how many messages can use
+  the most capable model, and may switch to a smaller model when the limit is
+  reached. A six-hour hands-on day is heavy use. [TODO: check GPT-6's current
+  limits for the tier learners will use.] If a learner's model changes mid-day,
+  that's a live lesson in Block 1's point about variation; pair them up.
+- **"Open source."** This repo assumes the request meant the public version. If
+  it meant an open-weight model run on local hardware, the setup check,
+  pre-course email, and data-control steps all need rewriting. See
+  [../BRIEF.md](../BRIEF.md), question 1.
 
 ## Must confirm
 
 | Item | Why it matters | Where it shows up | Confirmed |
 | --- | --- | --- | --- |
-| **Which ChatGPT version**, and that learners can log in on the training network | Without it, nothing hands-on works | BRIEF Q1; Block 1 setup check; pre-course email | [ ] |
-| **What information it's approved for** (public only? CUI?) | The safe-use card; the Block 5 strip step | Safe-use card; Block 5 | [ ] |
-| **Memory and chat-history settings** the agency expects | Block 1 setup check | Block 1 | [ ] |
-| **Whether web search, file upload, custom instructions, Projects, or custom GPTs are enabled** | What you can demo and suggest | Blocks 1 and 6 | [ ] |
-| **The agency's AI use policy**, with a link | "Am I allowed?" will be asked | Safe-use card; Block 6 | [ ] |
-| **Records and disclosure guidance** for prompts and outputs | Rule 4 on the safe-use card | Safe-use card | [ ] |
-| **Who learners contact** with questions | "Who to ask" | Safe-use card; Block 6 | [ ] |
+| **The agency permits use of public ChatGPT for this training**, on the devices and network in the room | Many agencies restrict public AI tools on government equipment. Without permission, the day can't run | BRIEF Q2; pre-course email | [ ] |
+| **chatgpt.com is reachable** on the training network | Blocked sites are common on agency networks | Run sheet | [ ] |
+| **How learners get accounts**: personal email or work email; created before the day | Sign-ups on the day eat 20 minutes | Pre-course email | [ ] |
+| **Account tier** and GPT-6 usage limits | Whether limits bite during the afternoon | Prep timeline | [ ] |
+| **Data-control setting** the agency wants learners to choose | Block 1 setup check | Block 1 | [ ] |
+| **Whether web search is on** by default | What you say in the Block 1 talk | Block 1 | [ ] |
+| **The agency's AI policy**, with a link | "Am I allowed?" will be asked | Safe-use card; Block 6 | [ ] |
+| **Whether the agency has an approved AI tool for real work**, and who to ask | Where learners go after the course | Safe-use card; Block 6; follow-up email | [ ] |
 | **Rules on prizes** at training events | The scoreboard | Engagement playbook | [ ] |
 
 ## Government-wide policy to check is still current
@@ -43,14 +54,14 @@ their agency's rules and where to find them.
 
 | Question | Answer |
 | --- | --- |
-| "Can I use my personal ChatGPT for work?" | Check your agency's policy; many don't allow it. Use the version your agency provides |
-| "Can it read my files / search the web?" | Depends on the version and what's enabled [TODO]. Either way, check what it tells you |
-| "Is what I type private?" | Depends on the version and your agency's agreement. Don't assume; ask your AI or privacy office |
-| "Can I use it for analysis of real data?" | Only data the version is approved for, and you check every number. Uploaded-data analysis is out of scope today |
+| "Can I use this ChatGPT for my real work tomorrow?" | Not with non-public information. Check whether your agency has an approved tool for that, and what its policy says about public tools |
+| "Why aren't we using the government version?" | This course teaches skills that work in any version. The public one is what everyone can practise on, with invented data |
+| "Is what I type private?" | Not in the sense you'd need for work information. That's why today is invented or public content only |
+| "My model changed halfway through" | Usage limits. Pair up, and notice that the outputs changed too: that's Block 1's lesson |
 | "Should I say I used AI?" | Follow your agency's disclosure guidance. If there isn't any, ask your supervisor |
-| "Will this replace analysts?" | It drafts; it can't judge evidence. The Hunt this morning showed why that job is still yours |
+| "Will this replace analysts?" | It drafts; it can't judge evidence. Machine vs. Hunters this morning showed why that job is still yours |
 
 ## Fabricated data
 
-Every name, office, figure, and document in the activities is invented. If you
-adapt an activity, keep it that way.
+Every name, office, figure, and document in the activities and the prompt bank is
+invented. If you adapt anything, keep it that way.

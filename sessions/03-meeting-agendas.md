@@ -26,10 +26,19 @@ of their three target tasks: a meeting agenda with action items.
 | Min | Segment | Format | What happens |
 | --- | --- | --- | --- |
 | 0–8 | **Worst Prompt Contest** | Teams | [Activity 3](../activities/3-meeting-agenda-makeover.md), part 1. Three minutes to write the *worst possible* prompt for a meeting agenda. Read aloud; room votes; run the winner live. Points to the winner |
-| 8–20 | Build it live | Demo | The five parts, one at a time, on the working-group scenario. Run after context, after format, after guardrails. **Leave out audience on purpose**, show the result, then add it. Point at what changed each time |
-| 20–45 | **Prompt Makeover Relay** | Teams | Activity 3, part 2. A vague agenda prompt passes around the table; each person adds one part and runs it; the team records what changed. Ends with a finished agenda and action-item table |
-| 45–55 | Debrief | Room | Each team holds up its relay sheet. *Which part changed the output most?* Show one strong prompt (the prompt, not the output). Relay points to the board |
+| 8–20 | Build it live | Demo | Practice prompt **P3.2**, versions 1–5: the five parts, one at a time, on the working-group scenario. **Audience is left out on purpose** until the last version. Point at what changed each time |
+| 20–45 | **Prompt Makeover Relay** | Teams | Activity 3, part 2. Starting from **P3.1**, the prompt passes around the table; each person adds one part and runs it; the team records what changed. Then **two tests** of the final prompt: on another team's scenario card (**T3.1**) and on a near-empty card (**T3.2**) |
+| 45–55 | Debrief | Room | *Which part changed the output most? Whose prompt passed both tests, and what did it have that others didn't?* Show **P3.3** as a model. Relay points to the board |
 | 55–60 | Bridge | Instructor | *"After lunch: when the first answer still isn't right."* Back at 13:00 |
+
+All prompts for this block: [../prompts/block-3.md](../prompts/block-3.md).
+
+## Why test at the end of the relay
+
+A prompt that only works on the scenario it was written for is an answer, not a
+prompt. The swap test (T3.1) checks reusability; the empty-card test (T3.2)
+checks whether the guardrails actually stop invention. Most teams' first prompts
+fail T3.2, which is the best possible setup for Block 4.
 
 ## Why the Worst Prompt Contest works
 

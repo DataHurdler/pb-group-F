@@ -29,20 +29,27 @@ Ready to use: copy into a form tool or print. About three minutes.
 Contest ☐ Makeover Relay ☐ Email from Chaos ☐ Reverse-Engineer ☐ Red Team ☐
 Elevator Briefing ☐ Prompt card
 
-**6. Was any activity fun but not useful? Which?**
+**6. The ready-made practice and test prompts were…**
+☐ Not useful ☐ Somewhat useful ☐ Very useful ☐ I didn't use them
+
+**And how likely are you to test a prompt (normal, messy, missing information)
+before relying on it at work?**
+☐ Unlikely ☐ Maybe ☐ Likely ☐ Already doing it
+
+**7. Was any activity fun but not useful? Which?**
 
 &nbsp;
 
-**7. Do you know where to find your agency's rules for using ChatGPT?**
+**8. Do you know where to find your agency's rules for using AI tools at work?**
 ☐ Yes ☐ Not sure ☐ No
 
-**8. What's one task you'll use ChatGPT for differently because of today?**
+**9. What's one task you'll use ChatGPT for differently because of today?**
 
 &nbsp;
 
-**9. Would you recommend this course to a colleague?** ☐ Yes ☐ Maybe ☐ No
+**10. Would you recommend this course to a colleague?** ☐ Yes ☐ Maybe ☐ No
 
-**10. Anything else?**
+**11. Anything else?**
 
 &nbsp;
 
@@ -50,8 +57,10 @@ Elevator Briefing ☐ Prompt card
 
 ## Reading the results
 
-- **Questions 5 and 6 together** show which games earn their time. A game that
+- **Questions 5 and 7 together** show which games earn their time. A game that
   people enjoyed but nobody chose in Q5 is a candidate for the spare-ideas list.
-- **Question 7 is a safety check.** Many "no" or "not sure" answers mean the policy
+- **Question 6** tells you whether the prompt bank and testing habit will
+  outlast the day.
+- **Question 8 is a safety check.** Many "no" or "not sure" answers mean the policy
   link wasn't clear enough; fix Block 1 and the safe-use card.
 - Question 2 against the pre/post check: is confidence matched by improvement?

@@ -8,7 +8,7 @@ Block 1 · Outcome: LO1 · Time: 7 min · Format: teams, A/B cards
 and plants the day's first lesson without a slide: a vague prompt gives a
 polished, generic answer.
 
-**Prep (the day before):** in the learners' version of ChatGPT, start a new chat
+**Prep (the day before):** in the public ChatGPT on GPT-6, start a new chat
 and send exactly: *"Write an agenda for a quarterly data review meeting."* Paste
 the output into the handout as one of the two agendas. Flip a coin for whether
 it's A or B, and keep the human one below as the other. Record which is which.

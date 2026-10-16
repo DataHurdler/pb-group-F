@@ -1,6 +1,6 @@
 # Activity 2b: Two Truths and an AI
 
-Block 2 · Outcomes: LO1, LO4 · Time: 8 min · Format: teams, A/B/C cards
+Block 2 · Outcomes: LO1, LO4 · Time: 6 min · Format: teams, A/B/C cards
 
 ## For the instructor
 
@@ -10,9 +10,9 @@ a plausible fabrication. The lesson: the fabrication is usually the most
 reasonable-sounding statement, because it's what you'd *expect* the source to
 say.
 
-**Run it:** show the source and statements on screen. 60 seconds per round. On
-"3, 2, 1," every team holds up a card. One point per correct team. Then ask one
-team how they knew.
+**Run it:** show the source and statements on screen. Two minutes per round:
+60 seconds to decide; on "3, 2, 1," every team holds up a card; one point per
+correct team; then ask one team how they knew.
 
 **Answers:** round 1, **C** · round 2, **C** · round 3, **C**. (Shuffle the
 letters on your slides so C isn't always the answer.)

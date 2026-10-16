@@ -9,7 +9,7 @@ features of a prompt produce which features of an output. It's also a puzzle,
 which analysts tend to enjoy.
 
 **Prep (the day before):** run each hidden prompt below in a **new chat** in the
-learners' version of ChatGPT. Save the outputs. Learners see only the outputs.
+public ChatGPT on GPT-6. Save the outputs. Learners see only the outputs.
 
 **Timing**
 

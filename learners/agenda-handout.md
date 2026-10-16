@@ -8,7 +8,10 @@
 - build a **project implementation checklist**
 - turn a **confusing email into a clear reply**
 
-…and you'll know how to check what it gives you, and what never to paste in.
+…and you'll know how to test a prompt before relying on it, check what ChatGPT
+gives you, and what never to paste in.
+
+**Prompt bank** (every prompt we'll use, ready to copy): [TODO: link]
 
 ## Today
 
@@ -16,7 +19,7 @@
 | --- | --- |
 | 8:30 | First contact: *Human or Machine?* and how ChatGPT works |
 | 9:30 | Break |
-| 9:45 | Where it fails: *Hallucination Hunt* |
+| 9:45 | Where it fails: *Hallucination Hunt* and *Machine vs. Hunters* |
 | 10:45 | Break |
 | 11:00 | Meeting agendas: the five-part prompt |
 | 12:00 | Lunch |
@@ -27,8 +30,8 @@
 | 15:30 | Your own prompt card, and close |
 | 16:30 | Finish |
 
-**Room rule:** everything you paste today is invented or public. Nothing from
-your real work goes in.
+**Room rule:** we're using the public version of ChatGPT. Everything you paste
+is invented or public. Nothing from your real work goes in.
 
 **Wi-Fi:** [TODO] · **Restrooms:** [TODO]
 
@@ -46,5 +49,5 @@ Questions that don't fit the moment go on the **parking lot**.
 
 **When:**
 
-**What I'll check first** (is my version of ChatGPT approved for this
+**What I'll check first** (does my agency have an approved tool for this
 information? who will review the output?):
