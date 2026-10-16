@@ -6,62 +6,73 @@ Status: draft.
 
 | | Minutes |
 | --- | --- |
-| Contact time, 9:00–15:45 less a 45-minute lunch | 360 |
-| Two 15-minute breaks | −30 |
-| **Teaching time** | **330** |
-| Lecture and demo | 100 (30%) |
-| Hands-on: activities, practice, project, discussion | 230 (70%) |
+| On site, 8:30–16:30 | 480 |
+| Lunch | −60 |
+| Four 15-minute breaks | −60 |
+| **Instruction** | **360** |
+| Talk and demo | 95 (26%) |
+| Hands-on: games, exercises, briefings, discussion | 265 (74%) |
 
 ## The day
 
 | Time | Min | Block | Talk / do | Outcomes |
 | --- | --- | --- | --- | --- |
-| 9:00 | 30 | **00 Opening and safe-use rules**: introductions, the day, the four safe-use rules, pre-check, setup check | 12 / 18 | — |
-| 9:30 | 75 | **01 How LLMs work, and where they fail**: same prompt, different answers; prediction, not lookup; the failure modes that matter in federal work; check an AI-drafted memo | 30 / 45 | LO1, LO4 |
+| 8:30 | 60 | **1 First contact**: welcome, *Human or Machine?*, safe-use rules, pre-check, setup, same prompt/different answers, how ChatGPT works | 25 / 35 | LO1, LO4 |
+| 9:30 | 15 | Break | | |
+| 9:45 | 60 | **2 Where it fails**: failure modes in research and analysis, *Hallucination Hunt*, *Two Truths and an AI*, the "are you sure?" demo | 23 / 37 | LO1, LO4 |
 | 10:45 | 15 | Break | | |
-| 11:00 | 60 | **02 The five-part prompt**: task, context, audience, format, guardrails; demo, then fix three vague prompts | 20 / 40 | LO2 |
-| 12:00 | 45 | Lunch | | |
-| 12:45 | 75 | **03 Iterate and verify**: plain-language rewrite with an iteration log; five refinement moves; meeting notes to a BLUF memo, with sensitive details to catch | 15 / 60 | LO3, LO4 |
+| 11:00 | 60 | **3 Meeting agendas**: *Worst Prompt Contest*, the five-part prompt built live, *Prompt Makeover Relay* | 17 / 43 | LO2 |
+| 12:00 | 60 | Lunch | | |
+| 13:00 | 60 | **4 Clear email responses**: *Email from Chaos* read aloud, then fixed; five refinement moves; *Reverse-Engineer the Prompt* | 15 / 45 | LO3 |
 | 14:00 | 15 | Break | | |
-| 14:15 | 60 | **04 Project**: a reusable prompt card for a recurring task from the learner's own job, tested by a partner | 8 / 52 | LO2, LO3, LO4 |
-| 15:15 | 30 | **05 Close**: goals wall, post-check, action plan, feedback | 15 / 15 | All |
-| 15:45 | | End | | |
+| 14:15 | 60 | **5 Implementation checklists**: strip, build, *Red Team*, *Elevator Briefing* | 5 / 55 | LO2, LO3, LO4 |
+| 15:15 | 15 | Break | | |
+| 15:30 | 60 | **6 Your prompt card and close**: build and partner-test a prompt for your own task, gallery walk, post-check, action plan, scoreboard | 10 / 50 | All |
+| 16:30 | | End | | |
+
+## Why this order
+
+- **Failure before technique.** Blocks 1 and 2 show what goes wrong, so the
+  five-part prompt in Block 3 arrives as the fix, not as a rule.
+- **One target task per block** after that: agendas (3), email (4),
+  checklists (5). Each block adds one skill on top of the last.
+- **After lunch, noise first.** Block 4 opens with a volunteer reading a
+  ridiculous email aloud. Nobody falls asleep during that.
+- **The last hour is theirs.** Block 6 is the learner's own task, so the day ends
+  on something they'll use on Monday.
 
 ## Clock checkpoints
 
 | At | You should be | If more than 10 minutes behind |
 | --- | --- | --- |
-| 10:45 | Starting the first break | Cut 1 |
+| 9:30 | Starting break 1 | Shorten the block 2 opening talk to 8 minutes |
+| 10:45 | Starting break 2 | Cut 1 |
 | 12:00 | Releasing for lunch | Cut 2. Don't take time from lunch |
-| 14:00 | Starting the second break | Cut 3 |
-| 15:15 | Starting the close | Cut 4. Never cut the close itself |
+| 15:15 | Starting break 4 | Cut 3 |
+| 16:11 | Starting the post-check in Block 6 | Cut 4 |
 
 ## If the day runs long, cut in this order
 
-1. **Activity 1.2:** tables look for problems 1–4 only; you reveal 5 and 6 (−8).
-2. **Scenario B** becomes take-home work, handed out on paper with the answer key
-   (−25). Spend the time debriefing scenario A properly, and cover the
-   sensitive-data point from scenario B in two minutes of talk.
-3. **Session 04 share-outs** drop to two volunteers (−8).
-4. **Session 05 review** becomes one question to the room (−5).
+1. **Two Truths and an AI** drops from three rounds to one (−6).
+2. **Reverse-Engineer the Prompt** drops to one output instead of three (−8).
+3. **Elevator Briefings** from two volunteer tables instead of every table (−6).
+4. **Gallery walk** becomes "hold up your card and read its first line" (−5).
 
-**Never cut:** the safe-use rules in Session 00, activity 2.1, the project work
-time, or the action plan. If you cut scenario B, you must still say its data
-lesson out loud.
+**Never cut:** the safe-use rules, the Hallucination Hunt, the Makeover Relay,
+Email from Chaos, the "strip before pasting" step in Block 5, the prompt card
+work time, or the action plan.
 
 ## If there's time left over
 
-1. Gallery walk after the project: prompt cards on the wall, each learner leaves
-   one sticky-note suggestion on someone else's (+10).
-2. Extension in Session 03: ask the tool to critique its own scenario A output
-   against the source, then check whether the critique was right (+10).
-3. Open Q&A for anyone who wants to stay (+15).
+1. **Four Corners** energiser after any break (+3); see the engagement playbook.
+2. **Prompt Golf** in Block 4 for fast teams (+8).
+3. Open Q&A at the end (+15).
 
 ## Outcome coverage
 
 | Outcome | Introduced | Practised | Checked |
 | --- | --- | --- | --- |
-| LO1 | 01 | 01 | Pre/post Q1–2; activity 1.2 |
-| LO2 | 02 | 02, 03, 04 | Activity 2.1; project rubric rows 1–2 |
-| LO3 | 03 | 03, 04 | Scenario A iteration log; pre/post Q4; project rubric row 4 |
-| LO4 | 00, 01 | 01, 03, 04 | Activity 1.2; scenario B; pre/post Q3, Q5; project rubric row 3 |
+| LO1 | 1 | 1, 2 | Pre/post Q1–2; Hallucination Hunt score |
+| LO2 | 3 | 3, 5, 6 | Makeover Relay sheet; prompt card rubric rows 1–2 |
+| LO3 | 4 | 4, 5, 6 | Email from Chaos log; pre/post Q4; rubric row 4 |
+| LO4 | 1 | 2, 5, 6 | Hunt; Block 5 strip step; pre/post Q3; rubric row 3 |

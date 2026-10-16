@@ -2,40 +2,39 @@
 
 [TODO: date] · [TODO: venue] · [TODO: instructor]
 
-## By the end of today, you'll be able to
+## By the end of today, you'll be able to use ChatGPT to
 
-1. Explain how AI chat tools produce answers, and where they tend to go wrong.
-2. Write clear, structured prompts for everyday work tasks.
-3. Improve a weak result instead of starting over.
-4. Check AI output before using it, and keep sensitive information out of tools
-   that aren't approved for it.
+- draft a **meeting agenda with action items**
+- build a **project implementation checklist**
+- turn a **confusing email into a clear reply**
+
+…and you'll know how to check what it gives you, and what never to paste in.
 
 ## Today
 
 | Time | |
 | --- | --- |
-| 9:00 | Opening and safe-use rules |
-| 9:30 | How LLMs work, and where they fail |
+| 8:30 | First contact: *Human or Machine?* and how ChatGPT works |
+| 9:30 | Break |
+| 9:45 | Where it fails: *Hallucination Hunt* |
 | 10:45 | Break |
-| 11:00 | The five-part prompt |
+| 11:00 | Meeting agendas: the five-part prompt |
 | 12:00 | Lunch |
-| 12:45 | Iterate and verify |
+| 13:00 | Clear email responses: *Email from Chaos* |
 | 14:00 | Break |
-| 14:15 | Project: a prompt you'll reuse |
-| 15:15 | Close |
-| 15:45 | Finish |
+| 14:15 | Implementation checklists: build, red-team, brief |
+| 15:15 | Break |
+| 15:30 | Your own prompt card, and close |
+| 16:30 | Finish |
 
-**Today's room rule:** everything you paste is fabricated or public. Nothing
-from your real work goes in.
+**Room rule:** everything you paste today is invented or public. Nothing from
+your real work goes in.
 
 **Wi-Fi:** [TODO] · **Restrooms:** [TODO]
 
-Questions that don't fit the moment go on the **parking lot**. They'll be
-answered today or in the follow-up email.
+Questions that don't fit the moment go on the **parking lot**.
 
 ## Notes
-
-&nbsp;
 
 &nbsp;
 
@@ -47,7 +46,5 @@ answered today or in the follow-up email.
 
 **When:**
 
-**What I'll check first** (is the tool approved for this information? who will
-review the output?):
-
-&nbsp;
+**What I'll check first** (is my version of ChatGPT approved for this
+information? who will review the output?):

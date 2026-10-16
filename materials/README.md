@@ -3,11 +3,11 @@
 | Folder | Holds |
 | --- | --- |
 | `handouts/` | Job aids learners keep: [prompt checklist](handouts/prompt-checklist.md), [safe-use card](handouts/safe-use-card.md) |
-| `slides/` | Not built yet. Build from the session outlines in `../sessions/`; prefix files with the session number |
-| `files/` | Anything learners open on their machines. None needed at present: all source text is in the activity handouts |
+| `slides/` | Not built yet. About 20 slides for the whole day; see the [engagement playbook](../instructor/engagement-playbook.md) |
+| `files/` | Nothing needed: all source text is in the activity handouts |
 
-Activity handouts live in [../activities/](../activities/). Print the
-"For learners" section of each.
+Activity handouts are in [../activities/](../activities/). Print only the
+"For learners" section of each; the instructor sections contain the answer keys.
 
 ## Print list
 
@@ -16,13 +16,14 @@ Activity handouts live in [../activities/](../activities/). Print the
 | Agenda handout | [../learners/agenda-handout.md](../learners/agenda-handout.md) | Learner | |
 | Safe-use card | [handouts/safe-use-card.md](handouts/safe-use-card.md) | Learner | |
 | Prompt checklist | [handouts/prompt-checklist.md](handouts/prompt-checklist.md) | Learner | |
-| Pre/post check (if on paper) | [../assessment/pre-post-check.md](../assessment/pre-post-check.md), questions only | Learner | ×2 |
-| Activity 1.2: check the memo | [../activities/1.2-check-the-memo.md](../activities/1.2-check-the-memo.md) | Learner | |
-| Activity 2.1: fix three prompts | [../activities/2.1-fix-three-prompts.md](../activities/2.1-fix-three-prompts.md) | Learner | |
-| Scenario A | [../activities/3a-plain-language-rewrite.md](../activities/3a-plain-language-rewrite.md) | Learner | |
-| Scenario B | [../activities/3b-meeting-notes-to-memo.md](../activities/3b-meeting-notes-to-memo.md) | Learner | |
-| Project card and rubric | [../activities/4-project-prompt-card.md](../activities/4-project-prompt-card.md) | Learner | |
+| Pre/post check, questions only | [../assessment/pre-post-check.md](../assessment/pre-post-check.md) | Learner | ×2 |
+| 1a Human or Machine? (with the pre-made agenda) | [../activities/1a-human-or-machine.md](../activities/1a-human-or-machine.md) | Team | |
+| 2a Hallucination Hunt | [../activities/2a-hallucination-hunt.md](../activities/2a-hallucination-hunt.md) | Learner | |
+| 3 Relay sheet and scenario cards | [../activities/3-meeting-agenda-makeover.md](../activities/3-meeting-agenda-makeover.md) | Team | |
+| 4a Email from Chaos | [../activities/4a-email-from-chaos.md](../activities/4a-email-from-chaos.md) | Learner | +1 for the volunteer |
+| 4b Reverse-Engineer (with the pre-made outputs) | [../activities/4b-reverse-engineer-the-prompt.md](../activities/4b-reverse-engineer-the-prompt.md) | Team | |
+| 5 Project summary and worksheet | [../activities/5-implementation-checklist.md](../activities/5-implementation-checklist.md) | Learner | |
+| 6 Prompt card and rubric | [../activities/6-prompt-card.md](../activities/6-prompt-card.md) | Learner | |
 | Feedback form (if on paper) | [../assessment/feedback-form.md](../assessment/feedback-form.md) | Learner | |
 
-Never print the "For the instructor" sections for learners. They contain the
-answer keys.
+Activity 2b (Two Truths) runs from slides; no printing needed.

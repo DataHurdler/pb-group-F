@@ -2,57 +2,56 @@
 
 Print this. Keep it next to you all day.
 
-## Before learners arrive (from 8:15)
+## Before learners arrive (from 7:45)
 
-- [ ] Projector tested with your laptop; slides open
-- [ ] **The tool works on the room's network**, logged in on your laptop, with a
-      second browser tab ready for demos
-- [ ] Wi-Fi details on the screen
-- [ ] Tables of 3–4, not rows
-- [ ] On each table: agenda handout, safe-use card, prompt checklist, sticky
-      notes, pens
-- [ ] Goals wall and parking-lot sheet up
-- [ ] Printouts sorted by session: pre-check; 1.2 memo; 2.1; scenarios A and B;
-      project card and rubric; post-check; feedback form
-- [ ] Demo source facts (telework announcement) on a slide
-- [ ] Timer visible to you
+- [ ] Projector working; ChatGPT open and logged in on your laptop, plus a
+      second tab for demos
+- [ ] Learners' version of ChatGPT reachable on the room network
+- [ ] Tables of 3–4; on each: agenda handout, safe-use card, prompt checklist,
+      voting cards, sticky notes, highlighter
+- [ ] Scoreboard, goals wall, and parking lot up
+- [ ] Printouts sorted by block (see [../materials/README.md](../materials/README.md))
+- [ ] Pre-made outputs ready: the *Human or Machine?* agenda, and the three
+      *Reverse-Engineer* outputs
+- [ ] Email from Chaos volunteer copy set aside
+- [ ] Visible timer; bell or chime; prizes hidden
 
 ## Timeline
 
 | Time | Block | Your cue | Check |
 | --- | --- | --- | --- |
-| 9:00 | 00 Opening | Start on time. **Safe-use rules before anyone types** | Every tool says "ready" |
-| 9:30 | 01 How LLMs work | Activity 1.1 first, before any slides | Tables find 4+ of 6 in activity 1.2 |
-| 10:45 | **Break** | Fix any broken setups | **Checkpoint** |
-| 11:00 | 02 Five-part prompt | Show two outputs side by side | Every pair has two five-part prompts |
-| 12:00 | **Lunch** | "Back at 12:45" | **Checkpoint** |
-| 12:45 | 03 Iterate and verify | Scenario A in hand within 3 minutes | Logs filled in; memos collected |
-| 14:00 | **Break** | Return the sticky notes for the project | **Checkpoint** |
-| 14:15 | 04 Project | "Invent your test input" | Every learner visited by 14:35 |
-| 15:15 | 05 Close | Goals wall | Feedback forms in |
-| 15:45 | End | | |
+| 8:30 | 1 First contact | Human or Machine? within 5 minutes. Safe-use rules before anyone types | Every login works |
+| 9:30 | **Break** | Fix broken logins | **Checkpoint** |
+| 9:45 | 2 Where it fails | Talk, then hunt | 4+ errors per team |
+| 10:45 | **Break** | Update the scoreboard | **Checkpoint** |
+| 11:00 | 3 Meeting agendas | Worst Prompt Contest first | All relay sheets complete |
+| 12:00 | **Lunch** | "Back at 13:00" | **Checkpoint** |
+| 13:00 | 4 Email responses | Volunteer reads the email | Five asks answered |
+| 14:00 | **Break** | | |
+| 14:15 | 5 Checklists | "Read before you paste" | Both sensitive items caught |
+| 15:15 | **Break** | Return sticky notes to owners | **Checkpoint** |
+| 15:30 | 6 Prompt card and close | "Invent your test input" | Cards on the wall by 16:03 |
+| 16:30 | End | | |
 
-More than 10 minutes behind at a checkpoint: next cut in
-[../schedule.md](../schedule.md).
+More than 10 minutes behind at a checkpoint: see [../schedule.md](../schedule.md).
 
 ## When something goes wrong
 
 | Situation | Response |
 | --- | --- |
-| The tool is down or blocked on the network | Demo from your laptop on a hotspot if allowed. Learners write prompts on paper and you run a few live. Activity 1.2 needs no tool; move it earlier |
-| A learner's account doesn't work | Pair them with a neighbour now; try to fix it at the break |
-| Someone pastes real work information | Stop them quietly and kindly; have them delete the conversation if the tool allows. Don't make an example of them; make the point to the room generally later |
-| A policy question you can't answer | "That's one for your agency's AI policy. I'll put the link in the follow-up email." Parking lot |
-| One person dominates | "Let's hear from someone who hasn't spoken yet." In pairs, swap who types |
-| Silent room | Ask tables, not the room: "One minute with your table, then I'll ask one table" |
-| The tool's output surprises you in a demo | Say so. It's the best possible illustration of Session 01 |
-| Running short | Use the stretch list in [../schedule.md](../schedule.md) |
-| Someone leaves at lunch | Ask them to do the feedback form first |
+| ChatGPT is down or blocked | The Hunt, Two Truths, and the strip step need no ChatGPT; move them earlier. Teams write prompts on paper; you run a few live if you have a connection |
+| A login fails | Pair them with a neighbour now; fix it at the next break |
+| Someone pastes real work information | Stop them quietly; have them delete the chat if the version allows. Make the point to the room later, generally |
+| A game falls flat | Skip to the debrief question; the point matters more than the game. Use a spare idea from the engagement playbook later |
+| Competition gets too heated | Laugh it off and remind them the prize is a sticker |
+| A policy question you can't answer | "That's for your agency's AI policy. I'll send the link." Parking lot |
+| A demo surprises you | Say so. It's Block 1's lesson happening live |
+| Running short | Spare ideas in the engagement playbook |
 
 ## After the day
 
-- [ ] Photograph the goals wall, parking lot, and a sample of prompt cards (with
-      permission)
+- [ ] Photograph the scoreboard, goals wall, parking lot, and (with permission)
+      a few prompt cards
 - [ ] Collect feedback forms and pre/post checks
-- [ ] Write three lines: what worked, what didn't, what to change
-- [ ] Follow-up email within 48 hours: [../learners/follow-up-email.md](../learners/follow-up-email.md)
+- [ ] Three lines: what worked, what didn't, what to change
+- [ ] Follow-up email within 48 hours
